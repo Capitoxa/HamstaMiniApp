@@ -16,6 +16,7 @@
     <type fullname="UI.Windows.NewsWindow.NewsWindowView" preserve="all" />
     <type fullname="UI.Windows.PlayWindow.PlayWindowView" preserve="all" />
     <type fullname="UI.Windows.ProfileWindow.ProfileWindowView" preserve="all" />
+    <type fullname="UI.Windows.SimpleDialogWindow.SimpleDialogWindowView" preserve="all" />
     <type fullname="UI.Windows.WalletWindow.WalletWindowView" preserve="all" />
   </assembly>
   <assembly fullname="UIEffect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
